@@ -1,0 +1,16 @@
+{
+  "name": "handlebars-debugger",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hbs": "^4.2.0"
+  }
+}
